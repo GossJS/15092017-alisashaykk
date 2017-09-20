@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT table (student) > 
+<!ELEMENT student (name,multimedia,web-design,graphics,logic)>
+<!ELEMENT greeting (#PCDATA)>
+<!ELEMENT multimedia (#PCDATA)>
+<!ELEMENT web-design (#PCDATA)>
+<!ELEMENT graphics (#PCDATA)>
+<!ELEMENT logic (#PCDATA | EMPTY)>

@@ -1,1 +1,25 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC "..."
+	"...dtd">
+<table>
+	<student>
+		<name>Ivanov</name>
+		<multimedia>3</multimedia>
+		<web-design>3</web-design>
+		<graphics>5</graphics>
+	</student>
+	<student>
+		<name>Petrova</name>
+		<multimedia>3</multimedia>
+		<web-design>4</web-design>
+		<graphics>5</graphics>
+		<logic>5</logic>
+	</student>
+	<student>
+		<name>Sidorenko</name>
+		<multimedia>3</multimedia>
+		<web-design>4</web-design>
+		<graphics>5</graphics>
+		<logic>4</logic>
+	</student>
+</table>
