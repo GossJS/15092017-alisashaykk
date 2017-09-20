@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC "..."
+	"...dtd">
+<myknowledge>
+	<proc>
+		<name>study</name>
+		<id>
+			<subject>HTML</subject>
+			<level>beginner</level>
+		</id>
+		<id>
+			<subject>CSS</subject>
+			<level>beginner</level>
+		</id>
+		<id>
+			<subject>JavaScript</subject>
+			<level>not started</level>
+		</id>
+	</proc>
+	<proc>
+		<name>actual</name>
+		<id>
+			<subject>Oracle</subject>
+			<level>good</level>
+		</id>
+		<id>
+			<subject>XML</subject>
+			<level>good</level>
+		</id>
+		<id>
+			<subject>MySQL</subject>
+			<level>very good</level>
+		</id>
+	</proc>	
+</myknowledge>
