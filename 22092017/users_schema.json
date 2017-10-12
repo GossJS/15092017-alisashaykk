@@ -1,0 +1,23 @@
+{
+  "title": "Login-Password",
+  "description": "The array of logins and passwords",
+  "type": "object",
+    "properties": {
+        "users": {
+            	"type": "array",
+            	"items": {
+                	"type": "object",
+                	"properties": {
+                    		"login": {
+                          "type": "string",
+                          "required": true,                          
+                          },
+                    		 "password": {
+                          "type": "string",
+                          "required": true,                          
+                          }
+                		  }
+            		  }
+        		  }
+    		  }
+}
