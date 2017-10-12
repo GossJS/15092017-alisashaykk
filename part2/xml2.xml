@@ -1,35 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE table PUBLIC "..."
-	"...dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE myknowledge PUBLIC "alisashaykk2" "https://kodaktor.ru/j/dtd_a7777">
 <myknowledge>
-	<proc>
-		<name>study</name>
-		<id>
-			<subject>HTML</subject>
-			<level>beginner</level>
-		</id>
-		<id>
-			<subject>CSS</subject>
-			<level>beginner</level>
-		</id>
-		<id>
-			<subject>JavaScript</subject>
-			<level>not started</level>
-		</id>
+	<proc name = "study">
+		<competency in="HTML" value="beginner"></competency>
+		<competency in="CSS" value="beginer"></competency>
+		<competency in="JavaScript" value="not started"></competency>
 	</proc>
-	<proc>
-		<name>actual</name>
-		<id>
-			<subject>Oracle</subject>
-			<level>good</level>
-		</id>
-		<id>
-			<subject>XML</subject>
-			<level>good</level>
-		</id>
-		<id>
-			<subject>MySQL</subject>
-			<level>very good</level>
-		</id>
-	</proc>	
+	<proc name = "actual">
+		<competency in="Oracle" value="good"></competency>
+		<competency in="XML" value="good"></competency>
+		<competency in="MySQL" value="very good"></competency>
+	</proc>
 </myknowledge>
