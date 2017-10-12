@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT urlvisiting ANY>
+<!ELEMENT list (os|mobile|ip)+>
+<!ELEMENT os (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>
+<!ELEMENT ips (ip+)>
+<!ELEMENT ip (#PCDATA)>
+
+<!ATTLIST os title CDATA #REQUIRED>
+<!ATTLIST os frequency CDATA #IMPLIED>
+<!ATTLIST mobile title CDATA #REQUIRED>
+<!ATTLIST mobile frequency CDATA #IMPLIED>
+<!ATTLIST ip addr CDATA #REQUIRED>
+<!ATTLIST ip frequency CDATA #IMPLIED>
