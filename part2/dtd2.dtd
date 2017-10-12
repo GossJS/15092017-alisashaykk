@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!ELEMENT myknowledge (proc) > 
-<!ELEMENT proc (name,id)>
-<!ELEMENT id (subject,level)>
-<!ELEMENT subject (#PCDATA)>
-<!ELEMENT level (#PCDATA)>
+
+<!ELEMENT myknowledge (proc+)> 
+<!ELEMENT proc (competency+)>
+<!ELEMENT competency EMPTY>
+<!ATTLIST proc name CDATA  #REQUIRED>
+<!ATTLIST competency in CDATA #REQUIRED>
+<!ATTLIST competency value CDATA #REQUIRED>
