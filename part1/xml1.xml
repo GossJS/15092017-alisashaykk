@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC "alisashaykk1" "https://kodaktor.ru/j/dtd_da7c3">
+
+<table>
+	<student name="Ivanov">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">3</mark>
+		<mark course="Graphics">5</mark>
+	</student>
+	<student name="Petrova">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">4</mark>
+		<mark course="Graphics">5</mark>
+		<mark course="Logic">5</mark>
+	</student>
+	<student name="Sidorenko">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">4</mark>
+		<mark course="Graphics">5</mark>
+		<mark course="Logic">4</mark>
+	</student>
+</table>
