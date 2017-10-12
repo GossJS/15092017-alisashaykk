@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xml_schema.xsd">
+	<student name="Ivanov">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">3</mark>
+		<mark course="Graphics">5</mark>
+	</student>
+	<student name="Petrova">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">4</mark>
+		<mark course="Graphics">5</mark>
+		<mark course="Logic">5</mark>
+	</student>
+	<student name="Sidorenko">
+		<mark course="Multimedia">3</mark>
+		<mark course="Web-design">4</mark>
+		<mark course="Graphics">5</mark>
+		<mark course="Logic">4</mark>
+	</student>
+</table>
