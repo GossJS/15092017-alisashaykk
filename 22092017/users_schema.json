@@ -15,9 +15,9 @@
                     		 "password": {
                           "type": "string",
                           "required": true,                          
-                          }
-                		  }
-            		  }
-        		  }
-    		  }
+                         }
+                  }
+              }
+        }
+    }
 }
